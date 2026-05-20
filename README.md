@@ -23,7 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        ```
+```
 # STEP 1 - Importing Libraries and Loading Dataset
 
 import pandas as pd
@@ -156,4 +156,5 @@ plt.show()
 <img width="706" height="597" alt="image" src="https://github.com/user-attachments/assets/93b40778-88df-42da-8648-264f92866898" />
 
 # RESULT
-      The Program and the Output has been successully generated.
+The Program and The Output has been sucessfully Verified along with the Visualization .
+
